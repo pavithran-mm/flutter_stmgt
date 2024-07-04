@@ -1,4 +1,4 @@
-# flutter_stmgt
+# Flutter State Management
 
 A State Management App.
 
